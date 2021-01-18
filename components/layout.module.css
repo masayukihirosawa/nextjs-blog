@@ -23,3 +23,14 @@
 .backToHome {
   margin: 3rem 0 0;
 }
+
+.sitelogo {
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  margin: 7px;
+  width: 3rem;
+  height: 3rem;
+}
